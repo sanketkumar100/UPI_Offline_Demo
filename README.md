@@ -1,4 +1,4 @@
-# UPI — Offline Mesh Payment Router
+# UPI — Offline Mesh Payment
 
 **A Spring Boot backend that routes UPI payments through a Bluetooth mesh network when the internet is down.**
 
